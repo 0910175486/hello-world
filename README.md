@@ -1,2 +1,2 @@
 # hello-world
-I'm now a ALX Student, this is my first repository as a full-stack engineer
+My name's mohammed I'm SE student at ALX
